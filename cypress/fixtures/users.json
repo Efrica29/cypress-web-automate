@@ -1,0 +1,19 @@
+{
+  "valid":{
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "locked":{
+    "username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "wrongPassword":{
+    "username": "standard_user",
+    "password": "salah123"
+  },
+  "checkoutInfo":{
+    "firstName": "Qwerty",
+    "lastName": "Qwerty",
+    "postalCode": "12345"
+  }
+}
