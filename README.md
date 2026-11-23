@@ -49,8 +49,9 @@ Prasyarat: [Node.js](https://nodejs.org) (LTS).
 
 ## Hasil
 
-Tambahkan screenshot hasil `npx cypress run` di sini.
+## Hasil
 
+![Hasil cypress run](docs/hasil_saucedemo.png)
 
 ## Catatan
 
