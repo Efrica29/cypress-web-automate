@@ -49,8 +49,6 @@ Prasyarat: [Node.js](https://nodejs.org) (LTS).
 
 ## Hasil
 
-## Hasil
-
 ![Hasil cypress run](docs/hasil_saucedemo.png)
 
 ## Catatan
